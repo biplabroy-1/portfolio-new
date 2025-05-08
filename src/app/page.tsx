@@ -210,7 +210,7 @@ export default function Page() {
                 >
                   with a direct question on twitter
                 </Link>{" "}
-                and I&apos;ll respond whenever I can. I will ignore all
+                and I'll respond whenever I can. I will ignore all
                 soliciting.
               </p>
             </div>

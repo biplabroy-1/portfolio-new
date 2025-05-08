@@ -76,7 +76,7 @@ export const DATA = {
       title: "DevOps & tech Lead",
       logoUrl: "https://media.licdn.com/dms/image/v2/D560BAQFRIgZiE3JuBw/company-logo_200_200/company-logo_200_200/0/1721229006140/the_future_network_ai_logo?e=1752105600&v=beta&t=hkEYBabU3CKU-Bbx1Ho23KWjlrqhWouYpTo9w3qX94I",
       start: "Feb 2024",
-      // end: "Apr 2024",
+      end: "Present",
       description:
         "Worked on setting up Docker-based development environments and automated deployment pipelines. Assisted in configuring Nginx as a reverse proxy and improved internal logging infrastructure. Helped transition backend services to a containerized workflow with Docker Compose.",
     },
