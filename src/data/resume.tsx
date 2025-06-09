@@ -171,7 +171,7 @@ export const DATA = {
       icon: <Icons.github className="size-3" />,
     },
   ],
-  image: "/url-shortener.jpg",
+  image: "/url-shortner.png",
   video: "",
     },
     {
