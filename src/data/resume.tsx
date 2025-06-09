@@ -150,6 +150,31 @@ export const DATA = {
       video: "", // Add if demo exists
     },
     {
+  title: "URL Shortener",
+  href: "https://github.com/biplabroy-1/url-shortner",
+  dates: "March 2024 - April 2024",
+  active: true,
+  description:
+    "Built a customizable URL shortener with support for custom aliases, analytics tracking, and user-specific domain integration. Developed using Next.js API routes and MongoDB.",
+  technologies: [
+    "Next.js",
+    "MongoDB",
+    "Tailwind CSS",
+    "clerk",
+    "JWT",
+    "Vercel",
+  ],
+  links: [
+    {
+      type: "Source",
+      href: "https://github.com/biplabroy-1/url-shortner",
+      icon: <Icons.github className="size-3" />,
+    },
+  ],
+  image: "/url-shortener.jpg",
+  video: "",
+    },
+    {
       title: "RAHI – Uber Clone (Backend)",
       href: "https://github.com/biplabroy-1/RAHI-backend",
       dates: "March 2024 - April 2024",
